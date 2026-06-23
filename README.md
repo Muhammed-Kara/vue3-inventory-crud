@@ -67,3 +67,7 @@ npm run test:e2e -- --debug
 ```sh
 npm run lint
 ```
+
+
+![Uygulama Ekran Görüntüsü](https://github.com/Muhammed-Kara/vue3-inventory-crud/blob/main/1.2.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/Muhammed-Kara/vue3-inventory-crud/blob/main/2.2.png?raw=true)
